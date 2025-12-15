@@ -28,7 +28,8 @@ To find this data, I searched on kaggle.com for an NFL dataset and came across o
 As you can see here, my hypothesis seems right. theres a strong increase over time of the average starters passing yards, and then at a certain point in the late 2010s/2020s it plateus. From starting at around 3400 in the early 2000s to over 4200 is a very impressive jump. I calculated the statistical metrics for both league wide starters statistics using linear regression models.
 
 ## Starters passing TDs
-<img width="629" height="447" alt="Screenshot 2025-12-12 at 7 43 31 PM" src="https://github.com/user-attachments/assets/c6a179b4-b3db-4734-8bde-98be94cea83e" />
+<img width="589" height="447" alt="Screenshot 2025-12-15 at 1 42 22 PM" src="https://github.com/user-attachments/assets/07ae44ba-fade-4d1b-9ae1-276246888487" />
+
 
 ### Statistical metrics
 - **Slope line: 21.06 +  .296x**
